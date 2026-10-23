@@ -1,76 +1,94 @@
 # AETHERIC-STUDIOS
-# [Nombre del Proyecto]
+# AETHERIC STUDIOS — Juego Interactivo de Teleinformática
 
-[Descripción breve: explica en 1 o 2 frases qué hace tu proyecto y para quién es útil.]
+**AETHERIC STUDIOS** es un juego educativo web diseñado para fortalecer el aprendizaje del hardware y la infraestructura de teleinformática mediante gamificación. El proyecto busca aumentar la motivación, la participación y la comprensión práctica de los estudiantes a través de simulaciones interactivas. [11]
+
+## Descripción
+
+El proyecto **STEAM CAUSAS** propone una herramienta pedagógica interactiva que responde a la falta de motivación en el aprendizaje tradicional del hardware de teleinformática. En lugar de depender únicamente de diagramas estáticos y memorización, el estudiante puede experimentar con componentes virtuales, identificar fallas y comprender el funcionamiento de una red o equipo de cómputo. [11]
+
+El prototipo permite practicar con dispositivos y componentes como:
+
+- Routers, switches y módems
+- Tarjetas de red
+- Buses y memorias
+- Servidores
+- Infraestructura de cableado
 
 ## Características
 
-- [Funcionalidad principal 1]
-- [Funcionalidad principal 2]
-- [Funcionalidad principal 3]
+- Simulación de ensamblaje y configuración de hardware de red.
+- Actividades de diagnóstico y reparación de fallas virtuales.
+- Interacción mediante *drag-and-drop* para conectar componentes.
+- Sistema de puntuación, niveles y retroalimentación inmediata.
+- Explicaciones visuales sobre el comportamiento del hardware.
+- Entorno seguro para aprender sin riesgo de dañar equipos reales. [11]
 
 ## Tecnologías utilizadas
 
-- [Lenguaje o framework, por ejemplo: JavaScript]
-- [Herramienta, por ejemplo: Node.js]
-- [Base de datos, por ejemplo: MongoDB]
+- HTML5
+- CSS3
+- JavaScript
+
+Estas tecnologías web permiten crear un prototipo accesible desde el navegador, sin requerir equipamiento físico costoso. [11]
 
 ## Instalación
 
-Clona el repositorio:
+Clona este repositorio:
 
 ```bash
 git clone [https://github.com/](https://github.com/)[tu-usuario]/[nombre-del-repositorio].git
 cd [nombre-del-repositorio]
 ```
 
-Instala las dependencias:
+Abre el archivo principal en tu navegador:
 
 ```bash
-npm install
+start index.html
 ```
+
+También puedes abrirlo directamente haciendo doble clic en `index.html`.
 
 ## Uso
 
-Ejecuta el proyecto:
+1. Ingresa al panel de desafíos de hardware.
+2. Selecciona una categoría: dispositivos de interconexión, componentes internos o cableado.
+3. Completa los retos de ensamblaje, conexión y diagnóstico.
+4. Recibe puntos y retroalimentación según tus decisiones.
+5. Avanza de nivel mientras aprendes sobre teleinformática. [11]
 
-```bash
-npm start
-```
+## Objetivo del proyecto
 
-Abre tu navegador en:
+Desarrollar un juego interactivo web enfocado en el hardware de teleinformática para incrementar el interés, la motivación y la comprensión práctica de los estudiantes en la gestión de infraestructura tecnológica. [11]
 
-```text
-http://localhost:3000
-```
+## Metodología
 
-## Estructura del proyecto
+El desarrollo sigue un enfoque ágil y progresivo:
 
-```text
-.
-├── src/
-│   ├── components/
-│   ├── pages/
-│   └── utils/
-├── public/
-├── package.json
-└── README.md
-```
+1. Diagnóstico de los temas que generan más confusión en los estudiantes.
+2. Diseño pedagógico y de mecánicas de juego.
+3. Desarrollo de la interfaz y lógica con HTML, CSS y JavaScript.
+4. Pruebas funcionales y evaluación de la experiencia de los usuarios. [11]
 
-## Contribuciones
+## Próximas mejoras
 
-Las contribuciones son bienvenidas. Para hacerlo:
+- Ampliar la base de retos y niveles.
+- Agregar registro de usuarios.
+- Guardar el progreso pedagógico de cada estudiante.
+- Incluir analíticas para que el docente pueda evaluar el desempeño individual. [11]
 
-1. Haz un fork del repositorio.
-2. Crea una rama: `git checkout -b mi-mejora`.
-3. Realiza tus cambios y haz commit: `git commit -m "Agregar mejora"`.
-4. Envía un pull request.
+## Autora
+
+**Alisson Mishel Galindo Walteros**  
+Colegio Robert Owen  
+Programa Técnico en Sistemas Teleinformáticos  
+Proyecto: **AETHERIC STUDIOS — STEAM CAUSAS**  
+Instructor: **David Sánchez** [11]
 
 ## Licencia
 
-Este proyecto está bajo la licencia [MIT / Apache 2.0 / otra].
+Este proyecto se desarrolla con fines educativos. Puedes definir aquí la licencia que prefieras, por ejemplo:
 
-## Contacto
-
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: [tu-correo@example.com]
+```text
+MIT License
+```
