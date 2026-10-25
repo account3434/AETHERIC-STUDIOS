@@ -1,4 +1,4 @@
-![image alt](https://github.com/account3434/AETHERIC-STUDIOS/blob/3a3de830e5ff40348e784dd5aacbd2a2ac0faa6c/Imagen)
+![image alt](https://github.com/account3434/AETHERIC-STUDIOS/blob/39d9946ae561582a67d65677bd82e61126ba0c4e/Screenshot_20261025_172237_Roblox.jpg)
 
 # AETHERIC-STUDIOS
 # AETHERIC STUDIOS — Juego Interactivo de Teleinformática
