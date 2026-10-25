@@ -65,6 +65,8 @@ También puedes abrirlo directamente haciendo doble clic en `index.html`.
 
 Desarrollar un juego interactivo web enfocado en el hardware de teleinformática para incrementar el interés, la motivación y la comprensión práctica de los estudiantes en la gestión de infraestructura tecnológica. [11]
 
+![image alt](https://github.com/account3434/AETHERIC-STUDIOS/blob/4db0661941d7e79d28fab9b08748191bd6f456c4/Screenshot_20261025_172328_Roblox.jpg)
+
 ## Metodología
 
 El desarrollo sigue un enfoque ágil y progresivo:
