@@ -1,0 +1,73 @@
+import base64
+import getpass
+import json
+import uuid
+from pathlib import Path
+from urllib.error import HTTPError, URLError
+from urllib.parse import quote
+from urllib.request import Request, urlopen
+
+usuario = input("Tu usuario de GitHub: ").strip()
+repositorio = input("Nombre de tu repositorio: ").strip()
+ruta = input("Ruta de la imagen en tu dispositivo: ").strip().strip('"')
+token = getpass.getpass("Token de GitHub (no se mostrará): ").strip()
+
+imagen = Path(ruta).expanduser()
+
+extensiones = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
+
+if not usuario or not repositorio or not token:
+    raise SystemExit("Faltan el usuario, el repositorio o el token.")
+
+if not imagen.is_file():
+    raise SystemExit("No se encontró la imagen. Revisa su ruta.")
+
+if imagen.suffix.lower() not in extensiones:
+    raise SystemExit("Selecciona una imagen JPG, PNG, GIF o WEBP.")
+
+if imagen.stat().st_size > 10 * 1024 * 1024:
+    raise SystemExit("Este programa acepta imágenes de hasta 10 MB.")
+
+# Un nombre único evita reemplazar imágenes existentes.
+nombre = f"{uuid.uuid4().hex}{imagen.suffix.lower()}"
+destino = f"imagenes/{nombre}"
+
+url = (
+    f"https://api.github.com/repos/{quote(usuario, safe='')}/"
+    f"{quote(repositorio, safe='')}/contents/{quote(destino, safe='/')}"
+)
+
+datos = {
+    "message": f"Agregar imagen: {nombre}",
+    "content": base64.b64encode(imagen.read_bytes()).decode("ascii"),
+}
+
+solicitud = Request(
+    url,
+    data=json.dumps(datos).encode("utf-8"),
+    headers={
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+        "Content-Type": "application/json",
+    },
+    method="PUT",
+)
+
+try:
+    with urlopen(solicitud, timeout=60) as respuesta:
+        resultado = json.load(respuesta)
+
+    print("¡Imagen subida correctamente!")
+    print("Ver imagen en GitHub:", resultado["content"]["html_url"])
+
+except HTTPError as error:
+    try:
+        detalle = json.loads(error.read().decode()).get("message", "")
+    except (ValueError, UnicodeDecodeError):
+        detalle = "No se pudo leer el mensaje de GitHub."
+
+    print(f"Error de GitHub ({error.code}): {detalle}")
+    print("Revisa el repositorio y los permisos del token.")
+
+except URLError as error:
+    print("No se pudo conectar con GitHub:", error.reason)
