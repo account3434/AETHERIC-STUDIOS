@@ -1,3 +1,5 @@
+![image alt](https://github.com/account3434/AETHERIC-STUDIOS/blob/3a3de830e5ff40348e784dd5aacbd2a2ac0faa6c/Imagen)
+
 # AETHERIC-STUDIOS
 # AETHERIC STUDIOS — Juego Interactivo de Teleinformática
 
