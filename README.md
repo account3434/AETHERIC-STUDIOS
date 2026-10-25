@@ -94,7 +94,7 @@ Instructor: **David Sánchez** [11]
 ## Licencia
 
 Este proyecto se desarrolla con fines educativos. Puedes definir aquí la licencia que prefieras, por ejemplo:
-
+![image alt](https://github.com/account3434/AETHERIC-STUDIOS/blob/c2ed650f644a9c36d50b9416abbc6b4cfe93d9b9/Screenshot_20261025_181601_WhatsApp.jpg)
 ```text
 https://github.com/account3434/AETHERIC-STUDIOS/blob/14e30c6bff1edebd9ac725a79ea3f12a5905953c/223627_1.webp
 ```
