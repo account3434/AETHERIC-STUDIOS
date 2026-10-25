@@ -46,7 +46,7 @@ cd [nombre-del-repositorio]
 Abre el archivo principal en tu navegador:
 
 ```bash
-start index.html
+https://www.roblox.com/es/home
 ```
 
 También puedes abrirlo directamente haciendo doble clic en `index.html`.
