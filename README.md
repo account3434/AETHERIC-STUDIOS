@@ -92,5 +92,5 @@ Instructor: **David Sánchez** [11]
 Este proyecto se desarrolla con fines educativos. Puedes definir aquí la licencia que prefieras, por ejemplo:
 
 ```text
-MIT License
+https://github.com/account3434/AETHERIC-STUDIOS/blob/14e30c6bff1edebd9ac725a79ea3f12a5905953c/223627_1.webp
 ```
