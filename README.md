@@ -32,6 +32,8 @@ El prototipo permite practicar con dispositivos y componentes como:
 - CSS3
 - JavaScript
 
+![image alt](https://github.com/account3434/AETHERIC-STUDIOS/blob/333a2e53b201e55ed19309e112e3a8e7f16d2232/223627_1.webp)
+
 Estas tecnologías web permiten crear un prototipo accesible desde el navegador, sin requerir equipamiento físico costoso. [11]
 
 ## Instalación
