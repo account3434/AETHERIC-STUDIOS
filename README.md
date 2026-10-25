@@ -39,7 +39,7 @@ Estas tecnologías web permiten crear un prototipo accesible desde el navegador,
 Clona este repositorio:
 
 ```bash
-git clone [https://github.com/](https://github.com/)[tu-usuario]/[nombre-del-repositorio].git
+https://www.roblox.com/share?code=23788568dd84834aaedfb9050e8aa574&type=ExperienceDetails&stamp=1792969025973git clone [https://github.com/](https://github.com/)[tu-usuario]/[nombre-del-repositorio].git
 cd [nombre-del-repositorio]
 ```
 
