@@ -3,7 +3,7 @@
 # AETHERIC-STUDIOS
 # AETHERIC STUDIOS — Juego Interactivo de Teleinformática
 
-**AETHERIC STUDIOS** es un juego educativo web diseñado para fortalecer el aprendizaje del hardware y la infraestructura de teleinformática mediante gamificación. El proyecto busca aumentar la motivación, la participación y la comprensión práctica de los estudiantes a través de simulaciones interactivas. [11]
+**🌐AETHERIC STUDIOS🌐** es un juego educativo web diseñado para fortalecer el aprendizaje del hardware y la infraestructura de teleinformática mediante gamificación. El proyecto busca aumentar la motivación, la participación y la comprensión práctica de los estudiantes a través de simulaciones interactivas. [11]
 
 ## Descripción
 
