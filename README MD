@@ -2,21 +2,21 @@
 # AETHERIC STUDIOS — Juego Interactivo de Teleinformática
 
 
-**AETHERIC STUDIOS** es un juego educativo web diseñado para fortalecer el aprendizaje del hardware y la infraestructura de teleinformática mediante gamificación. El proyecto busca aumentar la motivación, la participación y la comprensión práctica de los estudiantes a través de simulaciones interactivas. [11]
+**🌐AETHERIC STUDIOS🌐** es un juego educativo web diseñado para fortalecer el aprendizaje del hardware y la infraestructura de teleinformática mediante gamificación. El proyecto busca aumentar la motivación, la participación y la comprensión práctica de los estudiantes a través de simulaciones interactivas. [11]
 
-## Descripción
+## Descripción🧭
 
 El proyecto **STEAM CAUSAS** propone una herramienta pedagógica interactiva que responde a la falta de motivación en el aprendizaje tradicional del hardware de teleinformática. En lugar de depender únicamente de diagramas estáticos y memorización, el estudiante puede experimentar con componentes virtuales, identificar fallas y comprender el funcionamiento de una red o equipo de cómputo. [11]
 
 El prototipo permite practicar con dispositivos y componentes como:
 
-- Routers, switches y módems
-- Tarjetas de red
-- Buses y memorias
-- Servidores
-- Infraestructura de cableado
+- Routers, switches y módems🎄
+- Tarjetas de red✨️
+- Buses y memorias🧨
+- Servidores🏆
+- Infraestructura de cableado🥏
 
-## Características
+## Características 🎮
 
 - Simulación de ensamblaje y configuración de hardware de red.
 - Actividades de diagnóstico y reparación de fallas virtuales.
@@ -25,7 +25,7 @@ El prototipo permite practicar con dispositivos y componentes como:
 - Explicaciones visuales sobre el comportamiento del hardware.
 - Entorno seguro para aprender sin riesgo de dañar equipos reales. [11]
 
-## Tecnologías utilizadas
+## Tecnologías utilizadas 🎮
 
 - HTML5
 - CSS3
@@ -33,7 +33,7 @@ El prototipo permite practicar con dispositivos y componentes como:
 
 Estas tecnologías web permiten crear un prototipo accesible desde el navegador, sin requerir equipamiento físico costoso. [11]
 
-## Instalación
+## Instalación🎮
 
 Clona este repositorio:
 
@@ -42,7 +42,7 @@ git clone [https://github.com/](https://github.com/)[tu-usuario]/[nombre-del-rep
 cd [nombre-del-repositorio]
 ```
 
-Abre el archivo principal en tu navegador:
+Abre el archivo principal en tu navegador:🎮
 
 ```bash
 start index.html
