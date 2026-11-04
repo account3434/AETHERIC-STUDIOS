@@ -5,11 +5,11 @@
 
 **🌐AETHERIC STUDIOS🌐** es un juego educativo web diseñado para fortalecer el aprendizaje del hardware y la infraestructura de teleinformática mediante gamificación. El proyecto busca aumentar la motivación, la participación y la comprensión práctica de los estudiantes a través de simulaciones interactivas. [11]
 
-## Descripción
+## ✨️Descripción✨️
 
 El proyecto **STEAM CAUSAS** propone una herramienta pedagógica interactiva que responde a la falta de motivación en el aprendizaje tradicional del hardware de teleinformática. En lugar de depender únicamente de diagramas estáticos y memorización, el estudiante puede experimentar con componentes virtuales, identificar fallas y comprender el funcionamiento de una red o equipo de cómputo. [11]
 
-El prototipo permite practicar con dispositivos y componentes como:
+🍕El prototipo permite practicar con dispositivos y componentes como:🍕
 
 - Routers, switches y módems
 - Tarjetas de red
@@ -17,7 +17,7 @@ El prototipo permite practicar con dispositivos y componentes como:
 - Servidores
 - Infraestructura de cableado
 
-## Características
+## Características 🎮
 
 - Simulación de ensamblaje y configuración de hardware de red.
 - Actividades de diagnóstico y reparación de fallas virtuales.
@@ -26,7 +26,7 @@ El prototipo permite practicar con dispositivos y componentes como:
 - Explicaciones visuales sobre el comportamiento del hardware.
 - Entorno seguro para aprender sin riesgo de dañar equipos reales. [11]
 
-## Tecnologías utilizadas
+## Tecnologías utilizadas 🎮
 
 - HTML5
 - CSS3
@@ -45,7 +45,7 @@ https://www.roblox.com/share?code=23788568dd84834aaedfb9050e8aa574&type=Experien
 cd [nombre-del-repositorio]
 ```
 
-Abre el archivo principal en tu navegador:
+Abre el archivo principal en tu navegador: 🪬
 
 ```bash
 https://www.roblox.com/es/home
@@ -53,7 +53,7 @@ https://www.roblox.com/es/home
 
 También puedes abrirlo directamente haciendo doble clic en `index.html`.
 
-## Uso
+## Uso🎮
 
 1. Ingresa al panel de desafíos de hardware.
 2. Selecciona una categoría: dispositivos de interconexión, componentes internos o cableado.
@@ -61,13 +61,13 @@ También puedes abrirlo directamente haciendo doble clic en `index.html`.
 4. Recibe puntos y retroalimentación según tus decisiones.
 5. Avanza de nivel mientras aprendes sobre teleinformática. [11]
 
-## Objetivo del proyecto
+## Objetivo del proyecto🥏
 
 Desarrollar un juego interactivo web enfocado en el hardware de teleinformática para incrementar el interés, la motivación y la comprensión práctica de los estudiantes en la gestión de infraestructura tecnológica. [11]
 
 ![image alt](https://github.com/account3434/AETHERIC-STUDIOS/blob/4db0661941d7e79d28fab9b08748191bd6f456c4/Screenshot_20261025_172328_Roblox.jpg)
 
-## Metodología
+## Metodología🌐
 
 El desarrollo sigue un enfoque ágil y progresivo:
 
@@ -76,14 +76,14 @@ El desarrollo sigue un enfoque ágil y progresivo:
 3. Desarrollo de la interfaz y lógica con HTML, CSS y JavaScript.
 4. Pruebas funcionales y evaluación de la experiencia de los usuarios. [11]
 
-## Próximas mejoras
+## Próximas mejoras🏆
 
 - Ampliar la base de retos y niveles.
 - Agregar registro de usuarios.
 - Guardar el progreso pedagógico de cada estudiante.
 - Incluir analíticas para que el docente pueda evaluar el desempeño individual. [11]
 
-## Autora
+## Autora 🥣
 
 **Alisson Mishel Galindo Walteros**  
 Colegio Robert Owen  
