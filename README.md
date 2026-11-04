@@ -7,7 +7,7 @@
 
 ## ✨️Descripción✨️
 
-El proyecto **STEAM CAUSAS** propone una herramienta pedagógica interactiva que responde a la falta de motivación en el aprendizaje tradicional del hardware de teleinformática. En lugar de depender únicamente de diagramas estáticos y memorización, el estudiante puede experimentar con componentes virtuales, identificar fallas y comprender el funcionamiento de una red o equipo de cómputo. [11]
+El proyecto **AETHERIC STUDIOS** propone una herramienta pedagógica interactiva que responde a la falta de motivación en el aprendizaje tradicional del hardware de teleinformática. En lugar de depender únicamente de diagramas estáticos y memorización, el estudiante puede experimentar con componentes virtuales, identificar fallas y comprender el funcionamiento de una red o equipo de cómputo. [11]
 
 🍕El prototipo permite practicar con dispositivos y componentes como:🍕
 
@@ -48,10 +48,17 @@ cd [nombre-del-repositorio]
 Abre el archivo principal en tu navegador: 🪬
 
 ```bash
-<a href="https://www.roblox.com/share?code=23788568dd84834aaedfb9050e8aa574&type=ExperienceDetails&stamp=1793825948934"
-target="_blank">
-    JUGAR HEAD.ME EN ROBLOX
-</a>
+<main>
+    <h2>Aprende jugando</h2>
+
+    <p>Descubre el mundo de la teleinformática.</p>
+
+    <a href="https://www.roblox.com/share?code=23788568dd84834aaedfb9050e8aa574&type=ExperienceDetails&stamp=1793825948934" target="_blank">
+        JUGAR HEAD.ME EN ROBLOX
+    </a>
+
+    <button onclick="iniciar()">Comenzar</button>
+</main>
 ```
 
 También puedes abrirlo directamente haciendo doble clic en `index.html`.
