@@ -48,7 +48,7 @@ cd [nombre-del-repositorio]
 Abre el archivo principal en tu navegador: 🪬
 
 ```bash
-https://www.roblox.com/es/home
+https://www.roblox.com/share?code=23788568dd84834aaedfb9050e8aa574&type=ExperienceDetails&stamp=1793825948934
 ```
 
 También puedes abrirlo directamente haciendo doble clic en `index.html`.
