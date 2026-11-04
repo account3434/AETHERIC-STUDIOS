@@ -86,17 +86,7 @@ El desarrollo sigue un enfoque ágil y progresivo:
 3. Desarrollo de la interfaz y lógica con HTML, CSS y JavaScript.
 4. Pruebas funcionales y evaluación de la experiencia de los usuarios. [11]
 
-<main>
-    <h2>Aprende jugando</h2>
-
-    <p>Descubre el mundo de la teleinformática.</p>
-
-    <a href="https://www.roblox.com/share?code=23788568dd84834aaedfb9050e8aa574&type=ExperienceDetails&stamp=1793825948934" target="_blank">
-        JUGAR HEAD.ME EN ROBLOX
-    </a>
-
-    <button onclick="iniciar()">Comenzar</button>
-</main>
+   
 
 ## Próximas mejoras🏆
 
