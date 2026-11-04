@@ -48,17 +48,7 @@ cd [nombre-del-repositorio]
 Abre el archivo principal en tu navegador: 🪬
 
 ```bash
-<main>
-    <h2>Aprende jugando</h2>
-
-    <p>Descubre el mundo de la teleinformática.</p>
-
-    <a href="https://www.roblox.com/share?code=23788568dd84834aaedfb9050e8aa574&type=ExperienceDetails&stamp=1793825948934" target="_blank">
-        JUGAR HEAD.ME EN ROBLOX
-    </a>
-
-    <button onclick="iniciar()">Comenzar</button>
-</main>
+[🚀 Abrir aplicación Inventario de Activos]([![Jugar en Roblox](https://img.shields.io/badge/Jugar%20en-Roblox-red)](https://www.roblox.com/share?code=23788568dd84834aaedfb9050e8aa574&type=ExperienceDetails&stamp=1793829081661))
 ```
 
 También puedes abrirlo directamente haciendo doble clic en `index.html`.
